@@ -6,3 +6,5 @@ se iran a actualizando utilizando branches dentro de git.
 
 Nombre del alumno: José Daniel Huerta Álvarez
 Fecha de hoy: 13/Oct/2022
+
+CAMBIO REALIZADO DESDE GITHUB
